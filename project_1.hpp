@@ -2,7 +2,7 @@
  * project_1.hpp
  *
  *  Created on: 03-Oct-2019
- *      Author: Hemant Shah
+ *      Author: Jahnavi Shah
  */
 #include <iostream>
 #include <fstream>
